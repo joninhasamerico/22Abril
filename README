@@ -1,0 +1,8 @@
+para testar:
+http://127.0.0.1:3000/api/conversorMonetario/BRL/USD/500
+
+resultado:
+Moeda origem: BRL
+Moeda destino: USD
+Valor origem:500
+Valor convertido: 127
